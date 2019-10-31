@@ -1,4 +1,3 @@
-FROM microsoft/servercore:ltsc2019
-
+FROM mcr.microsoft.com/windows/servercore
 
 
